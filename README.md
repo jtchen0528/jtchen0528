@@ -6,6 +6,6 @@
 - 👨‍💻 All of my projects are available at [https://jtchen0528.github.io/](https://jtchen0528.github.io/)
 - 💬 I'm interested in **Software Development, Deep Learning or Computer Vision**
 - 📫 How to reach me **jhaoting@cmu.edu**
-- 📄 CV: [https://jtchen0528.github.io/blog/assets/files/Jhao_Ting_Chen_CV.html](https://jtchen0528.github.io/blog/assets/files/Jhao_Ting_Chen_CV.html)
+- 📄 [View my CV!](https://jtchen0528.github.io/blog/assets/files/Jhao_Ting_Chen_CV.html)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jtchen0528&show_icons=true&locale=en" alt="jtchen0528" /></p>
