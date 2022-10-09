@@ -1,7 +1,7 @@
 <h3 align="left">Hi, I'm Jhao-Ting (Jack) Chen</h3>
 <h6 align="left">An enthusiastic software developer and an active learner</h6>
 
-- 🌱 I’m currently **a master's student in Carnegie Mellon University**
+- 🌱 I’m currently **a master's student at Carnegie Mellon University**
 - 👯 Worked at **Microsoft** and **Logitech** as Software Intern
 - 💬 I'm interested in **Software Development, Deep Learning or Computer Vision**
 - 📫 How to reach me **jhaoting@cmu.edu**
